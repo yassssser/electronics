@@ -1,6 +1,7 @@
 # electronic
 
-A new Flutter project.
+![Home Page](assets/images/homePage.png)
+![Home Page](assets/images/Product.png.png)
 
 ## Getting Started
 
