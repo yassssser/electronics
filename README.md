@@ -1,7 +1,7 @@
 # electronic
 
-![Home Page](assets/images/homePage.png)
-![Home Page](assets/images/Product.png)
+![Home Page](homePage.png)
+![Product Page](Product.png)
 
 ## Getting Started
 
